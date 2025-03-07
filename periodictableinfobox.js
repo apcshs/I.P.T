@@ -59,9 +59,9 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "K") {
 			imageUrl = "https://5.imimg.com/data5/SELLER/Default/2022/5/WO/WB/XI/14297314/potassium-chloride-bp-10-injection-sal-kcl-injection--500x500.jpeg";
 		} else if (element.symbol === "Ca") {
-			imageUrl = "https://cdn.britannica.com/94/176094-050-40C6CB53/Calcite-calcium-carbonate-variety-crystals-development.jpg";
+			imageUrl = "https://media.post.rvohealth.io/wp-content/uploads/2020/08/642x361_IMAGE_1_8_Fast_Facts_About_Calcium.jpg";
 		} else if (element.symbol === "Rb") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/11/Rubidium.jpg?fit=252%2C200&ssl=1";
+			imageUrl = "https://study.com/cimages/multimages/16/rsz_purple.jpg";
 		} else if (element.symbol === "Sr") {
 			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/11/Strontium.jpg?fit=225%2C225&ssl=1";
 		} else if (element.symbol === "Cs") {
