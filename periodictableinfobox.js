@@ -43,9 +43,9 @@ class PeriodicTableInfoBox
 		
 		let imageUrl = "";
 		if (element.symbol === "Li") {
-			imageUrl = "https://cdn.britannica.com/73/131173-050-2F916887/fragments-Lithium-metal.jpg";
+			imageUrl = "https://cdn-reichelt.de/bilder/web/artikel_ws/D600%2FANS_1512-0002_02_ANW.jpg?type=Product&";
 		} else if (element.symbol === "H") {
-			imageUrl = "https://www.chemicool.com/elements/images/300-hydrogen-electrolysis.jpg";
+			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/7/74/Delta_IV_launch_2013-08-28.jpg";
 		} else if (element.symbol === "Be") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg";
 		} else if (element.symbol === "B") {
