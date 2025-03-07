@@ -51,13 +51,13 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "B") {
 			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXAfq_-SYPG2BbOqGpnyZ_zk0S0noK1R-qNK9E5QAXOX_Pix-U-A4QCj8sM7qQ-JHyf4&usqp=CAU";
 		} else if (element.symbol === "C") {
-			imageUrl = "https://cdn.britannica.com/38/127738-004-697C0793/Bituminous-coal.jpg";
+			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/5/51/Charcoal_8.jpg";
 		} else if (element.symbol === "Na") {
-			imageUrl = "https://cdn.britannica.com/60/123760-004-8C402A04/Sodium-chloride.jpg";
+			imageUrl = "https://supplements.selfdecode.com/app/uploads/2018/04/bigstock-jar-of-baking-soda-on-the-blac-134347160-min-1.jpg";
 		} else if (element.symbol === "Mg") {
-			imageUrl = "https://study.com/cimages/multimages/16/magnesium8968139749597950675.jpg";
+			imageUrl = "https://thumbs.dreamstime.com/b/fireworks-various-colours-20356437.jpg";
 		} else if (element.symbol === "K") {
-			imageUrl = "https://cdn.britannica.com/77/131177-050-79292189/fragments-Potassium-metal.jpg";
+			imageUrl = "https://5.imimg.com/data5/SELLER/Default/2022/5/WO/WB/XI/14297314/potassium-chloride-bp-10-injection-sal-kcl-injection--500x500.jpeg";
 		} else if (element.symbol === "Ca") {
 			imageUrl = "https://cdn.britannica.com/94/176094-050-40C6CB53/Calcite-calcium-carbonate-variety-crystals-development.jpg";
 		} else if (element.symbol === "Rb") {
