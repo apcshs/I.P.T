@@ -47,9 +47,9 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "H") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/7/74/Delta_IV_launch_2013-08-28.jpg";
 		} else if (element.symbol === "Be") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0c/Be-140g.jpg";
+			imageUrl = "https://scx2.b-cdn.net/gfx/news/hires/509902main_heaveymetal-img2-orig.jpg";
 		} else if (element.symbol === "B") {
-			imageUrl = "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/480xany/0/5/5/141055_Boron.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXXAfq_-SYPG2BbOqGpnyZ_zk0S0noK1R-qNK9E5QAXOX_Pix-U-A4QCj8sM7qQ-JHyf4&usqp=CAU";
 		} else if (element.symbol === "C") {
 			imageUrl = "https://cdn.britannica.com/38/127738-004-697C0793/Bituminous-coal.jpg";
 		} else if (element.symbol === "Na") {
