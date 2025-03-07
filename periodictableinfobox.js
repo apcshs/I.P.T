@@ -63,17 +63,17 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Rb") {
 			imageUrl = "https://study.com/cimages/multimages/16/rsz_purple.jpg";
 		} else if (element.symbol === "Sr") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/11/Strontium.jpg?fit=225%2C225&ssl=1";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIw-8tN3B72LF081VNnBk5tnz-ZVS7IKHWRbGRajo0Bsm79kwtFnfWeY8Iil_cXpvWxrI&usqp=CAU";
 		} else if (element.symbol === "Cs") {
-			imageUrl = "https://cdn.mos.cms.futurecdn.net/bLVuDQsGh2dF7P3jgytc3D.jpg";
+			imageUrl = "https://optica.africa/cdn/shop/files/CESIUMC25-P81___FRONT_1200x1200.jpg?v=1709721702";
 		} else if (element.symbol === "Ba") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Barium_unter_Argon_Schutzgas_Atmosph%C3%A4re.jpg/640px-Barium_unter_Argon_Schutzgas_Atmosph%C3%A4re.jpg";
+			imageUrl = "https://thelogicalindian.com/wp-content/uploads/2024/10/500x300_234246-fireflyapictureoffirecrackers33679.webp";
 		} else if (element.symbol === "Fr") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Francium-87.jpg/481px-Francium-87.jpg";
 		} else if (element.symbol === "Ra") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/8/88/Radium_Dial.jpg";
+			imageUrl = "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/1024x536/4/3/9/143439_shutterstock_1097370944.jpg";
 		} else if (element.symbol === "Sc") {
-			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/sc/1671441604-normal-Scandium%20metal.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkOUiLmwl3q6cIfXEPEkl1hsSduMD6PPaLviLr38u8IP3aBS33oQfi6aSVm_D11c4_Sk&usqp=CAU";
 		} else if (element.symbol === "Y") {
 			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/11/Yttrium.jpg?fit=225%2C225&ssl=1";
 		} else if (element.symbol === "Lu") {
