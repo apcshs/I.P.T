@@ -75,43 +75,43 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Sc") {
 			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZkOUiLmwl3q6cIfXEPEkl1hsSduMD6PPaLviLr38u8IP3aBS33oQfi6aSVm_D11c4_Sk&usqp=CAU";
 		} else if (element.symbol === "Y") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/11/Yttrium.jpg?fit=225%2C225&ssl=1";
+			imageUrl = "https://periodic-table.rsc.org/Content/Images/Elements/Yttrium-L.jpg?6.0.4.2";
 		} else if (element.symbol === "Lu") {
-			imageUrl = "https://scienceinfo.com/wp-content/uploads/2023/08/image-37.png";
+			imageUrl = "https://marketing.webassets.siemens-healthineers.com/1800000007261928/c44fd355fad6/v/58b7dc2f3c4a/siemens-healthineers_mi_biograph-vision_pet_ct_scanner_preview.png?nowebp=1";
 		} else if (element.symbol === "Lr") {
-			imageUrl = "https://www.chemistrylearner.com/wp-content/uploads/2018/03/Lawrencium.jpg";
+			imageUrl = "https://periodic-table.rsc.org/Content/Images/Elements/Lawrencium-L.jpg?6.0.4.2";
 		} else if (element.symbol === "La") {
-			imageUrl = "https://www.chemistrylearner.com/wp-content/uploads/2018/06/Lanthanum.jpg";
+			imageUrl = "https://preview.redd.it/is-the-lanthanide-coating-in-the-lll-35mm-f2-dangerous-v0-k4mu0hpi8mac1.jpg?width=871&format=pjpg&auto=webp&s=0037216e62b6d8f004fb62883b7d840b9b7080bb";
 		} else if (element.symbol === "Ac") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Uraninite-39029.jpg/150px-Uraninite-39029.jpg";
+			imageUrl = "https://i.ytimg.com/vi/BjIhiWU1e3Q/maxresdefault.jpg";
 		} else if (element.symbol === "Ti") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Titanium-stamps.jpg/220px-Titanium-stamps.jpg";
+			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/arm/uploads/2019/10/applications_of_titanium_in_dental_implants.jpg";
 		} else if (element.symbol === "Zr") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/9/92/Zirconium_crystal_bar_and_1cm3_cube.jpg";
+			imageUrl = "https://www.zircon-association.org/assets/images/2019/600x400/gemstone-pixabay-diamond-123338_600x400.jpg";
 		} else if (element.symbol === "Hf") {
-			imageUrl = "https://cdn.mos.cms.futurecdn.net/476mwLnFvNQhpUyNpNu2zn.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ5DTj6VLr2kPWXSij3XzKVvsz96Ou_QyQTLlia6yp9cioOXdE8YRnVAKlcwBKqIxqIhE&usqp=CAU";
 		} else if (element.symbol === "Rf") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rhenium_single_crystal_bar_and_1cm3_cube.jpg/1200px-Rhenium_single_crystal_bar_and_1cm3_cube.jpg";
+			imageUrl = "https://www.americanelements.com/images/2024-08/rutherfordium-banner.jpg";
 		} else if (element.symbol === "Ce") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0d/Cerium2.jpg";
+			imageUrl = "https://image.made-in-china.com/229f0j00YtiRzLlysPqM/62f276415648a871d66f9ca0163a5fa0-mp4.webp";
 		} else if (element.symbol === "Th") {
-			imageUrl = "https://www.cancer.gov/sites/g/files/xnrzdm211/files/styles/cgov_article/public/cgov_image/media_image/800/800/files/thorium.jpg?h=4965b7f7&itok=2-Nn8PVg";
+			imageUrl = "https://www.orau.org/health-physics-museum/img/museum/consumer-products/thorium/pentax-camera.jpg";
 		} else if (element.symbol === "V") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/f/f1/Vanadium_crystal_bar_and_1cm3_cube.jpg";
+			imageUrl = "https://www.americangeosciences.org/static/earth/mineral-resource-month-vanadium/2008-04-14_Chrome-Vanadium_Wrenches.jpg";
 		} else if (element.symbol === "Nb") {
-			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/arm/uploads/2018/01/What_Is_Niobium_Used_For_In_Everyday_Life-2.png";
+			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/arm/uploads/2020/04/Uses_of_Niobium-2.jpg";
 		} else if (element.symbol === "Ta") {
-			imageUrl = "https://cdn.britannica.com/69/132469-050-31A2E365/Tantalum.jpg";
+			imageUrl = "https://ph.element14.com/productimages/large/en_US/4484183.jpg";
 		} else if (element.symbol === "Db") {
-			imageUrl = "https://www.nanochemazone.com/wp-content/uploads/2021/06/Dubnium-Powder.jpg";
+			imageUrl = "https://isoflex.com/images/widgetkit/CoolingTowers660x308.jpg";
 		} else if (element.symbol === "Pr") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/c/c7/Praseodymium.jpg";
+			imageUrl = "https://cdn.xingosoftware.com/audioxpress/images/fetch/dpr_1,w_765,h_574,c_fit/https%3A%2F%2Faudioxpress.com%2Fassets%2Fupload%2Fimages%2F1%2F20190331201044_Photo1-DENON-AH-D7200-explodedviewWeb.png";
 		} else if (element.symbol === "Pa") {
 			imageUrl = "https://study.com/cimages/multimages/16/256px-blenda_smolista6.jpeg";
 		} else if (element.symbol === "Cr") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/08/Chromium_crystals_and_1cm3_cube.jpg";
+			imageUrl = "https://study.com/cimages/multimages/16/d89a3253-78f3-4df0-b342-ebbac3830ed9_cake-fork-metal-cutlery-small-fork-39552.jpeg";
 		} else if (element.symbol === "Mo") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/3/32/Molybdenum_crystaline_fragment_and_1cm3_cube.jpg";
+			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/arm/uploads/2020/04/Molybdenum_Powder_Types_Applications.jpg";
 		} else if (element.symbol === "W") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg";
 		} else if (element.symbol === "Sg") {
