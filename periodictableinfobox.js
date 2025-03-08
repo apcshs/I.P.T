@@ -145,15 +145,15 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Pu") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fat_Man_%28replica_of_nuclear_bomb%29.jpg";
 		} else if (element.symbol === "Co") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kobalt_electrolytic_and_1cm3_cube.jpg";
+			imageUrl = "https://chemistrytalk.org/wp-content/uploads/2023/03/640px-Early_2000s_Rechargeable_Batteries.jpg";
 		} else if (element.symbol === "Rh") {
-			imageUrl = "https://cdn.britannica.com/77/126277-050-5969B551/foil-wire.jpg";
+			imageUrl = "https://i00.eu/img/413/680x680/47nzz836/39495.jpg";
 		} else if (element.symbol === "Ir") {
-			imageUrl = "https://cdn.mos.cms.futurecdn.net/Lhqrokmoy5afcPygHxRGTX.jpg";
+			imageUrl = "https://www.ubuy.com.ph/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFGWlhKcm95MkwuX0FDX1NMMTUwMF8uanBn.jpg";
 		} else if (element.symbol === "Mt") {
 			imageUrl = "https://periodic-table.rsc.org/Content/Images/Elements/Meitnerium-L.jpg?6.0.4.2";
 		} else if (element.symbol === "Eu") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Europium.jpg/640px-Europium.jpg";
+			imageUrl = "https://periodictable.com/Samples/063.5/s13.JPG";
 		} else if (element.symbol === "Am") {
 			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/12/Americium.jpg?fit=225%2C224&ssl=1";
 		} else if (element.symbol === "Ni") {
