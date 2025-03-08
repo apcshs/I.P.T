@@ -129,21 +129,21 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Bh") {
 			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfjPTi86eBfCL3ZqjgjYGWqopNyTwE7sbjlCxyKmkix3HwHxqH2lX7BEbdkNpiQltdS4k&usqp=CAU";
 		} else if (element.symbol === "Pm") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/12/Promethium.jpg?fit=200%2C200&ssl=1";
+			imageUrl = "https://periodictable.com/Samples/038.6/s13.JPG";
 		} else if (element.symbol === "Np") {
 			imageUrl = "https://www.chemistrylearner.com/wp-content/uploads/2018/02/Neptunium-Element.jpg";
 		} else if (element.symbol === "Fe") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/2/2e/HematitaEZ.jpg";
+			imageUrl = "https://periodictable.com/Samples/026.59/s7s.JPG";
 		} else if (element.symbol === "Ru") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/12/Ruthenium.jpg?fit=225%2C225&ssl=1";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwL4OqBkSFnhSZK7EMWLuuQlVaNxkjYJaQMwDVv_XaM6TGgH4DFlRkCISdi1EONfSPH7U&usqp=CAU";
 		} else if (element.symbol === "Os") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0c/Osmium_crystals.jpg";
+			imageUrl = "https://periodictable.com/Samples/OsmiridiumPen/s13.JPG";
 		} else if (element.symbol === "Hs") {
-			imageUrl = "https://veronicadeguzman.neocities.org/periodic_table/pic/hassium.jpg";
+			imageUrl = "https://periodic-table.rsc.org/Content/Images/Elements/Hassium-L.jpg?6.0.4.2";
 		} else if (element.symbol === "Sm") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Samarium-2.jpg/640px-Samarium-2.jpg";
+			imageUrl = "https://www.magnetshop.com/includes/work/image_cache/webp/35d8f09fe195e6d72eb03b4f8a984075.thumb.webp";
 		} else if (element.symbol === "Pu") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Plutonium_pellet.jpg/1200px-Plutonium_pellet.jpg";
+			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/0/0e/Fat_Man_%28replica_of_nuclear_bomb%29.jpg";
 		} else if (element.symbol === "Co") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/a/a8/Kobalt_electrolytic_and_1cm3_cube.jpg";
 		} else if (element.symbol === "Rh") {
