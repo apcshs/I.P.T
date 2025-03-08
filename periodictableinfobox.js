@@ -113,21 +113,21 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Mo") {
 			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/arm/uploads/2020/04/Molybdenum_Powder_Types_Applications.jpg";
 		} else if (element.symbol === "W") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/1/1a/Wolfram_evaporated_crystals_and_1cm3_cube.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIdSPBgWAd44tMBpZZXKG6qOmkbRFXCEobJaq_N5DVKGViO78Pu2QKTVZv7wlBG4usNGM&usqp=CAU";
 		} else if (element.symbol === "Sg") {
 			imageUrl = "https://www.chemistrylearner.com/wp-content/uploads/2018/01/Seaborgium.jpg";
 		} else if (element.symbol === "Nd") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/b/ba/Neodymium2.jpg";
+			imageUrl = "https://m.media-amazon.com/images/I/71UTQKtJuvL._SL1500_.jpg";
 		} else if (element.symbol === "U") {
-			imageUrl = "https://cdn.britannica.com/56/255356-050-50B39125/uranium-chemical-element.jpg";
+			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/2/24/2011-05-10_18-57-46_Switzerland_-_Wil_crop.jpg";
 		} else if (element.symbol === "Mn") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Manganese_electrolytic_and_1cm3_cube.jpg/1200px-Manganese_electrolytic_and_1cm3_cube.jpg";
+			imageUrl = "https://www.manganese.org/sites/default/files/styles/text_image_x2_/public/featured_images/ALUMINIUM.jpg.webp?itok=kHiIcn1E";
 		} else if (element.symbol === "Tc") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Technetium-sample-cropped.jpg/640px-Technetium-sample-cropped.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuTO-ycZX9x3oKvGMMp-8wzc49Oohn-5E23RRIln7kD2Ow8wf5KdHnwBw19qTbjbmrVK4&usqp=CAU";
 		} else if (element.symbol === "Re") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Rhenium_single_crystal_bar_and_1cm3_cube.jpg/1200px-Rhenium_single_crystal_bar_and_1cm3_cube.jpg";
+			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/arm/uploads/2019/04/Rhenium_Uses_in_Aerospace-2.png";
 		} else if (element.symbol === "Bh") {
-			imageUrl = "https://periodiske-system.dk/img/images/lowRes/107.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfjPTi86eBfCL3ZqjgjYGWqopNyTwE7sbjlCxyKmkix3HwHxqH2lX7BEbdkNpiQltdS4k&usqp=CAU";
 		} else if (element.symbol === "Pm") {
 			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/12/Promethium.jpg?fit=200%2C200&ssl=1";
 		} else if (element.symbol === "Np") {
