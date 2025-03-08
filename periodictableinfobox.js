@@ -155,13 +155,13 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Eu") {
 			imageUrl = "https://periodictable.com/Samples/063.5/s13.JPG";
 		} else if (element.symbol === "Am") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/12/Americium.jpg?fit=225%2C224&ssl=1";
+			imageUrl = "http://large.stanford.edu/courses/2011/ph241/eason1/images/f1big.jpg";
 		} else if (element.symbol === "Ni") {
-			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXFnT-_jEF4G5r-JF6jKDbhzi4T2URe6cJHw&s";
+			imageUrl = "https://www.mecmining.com.au/wp-content/uploads/2016/10/nickel-004-1.jpg";
 		} else if (element.symbol === "Pd") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/d/d7/Palladium_%2846_Pd%29.jpg";
+			imageUrl = "https://img.medicalexpo.com/images_me/photo-mg/72900-9526751.webp";
 		} else if (element.symbol === "Pt") {
-			imageUrl = "https://cdn.britannica.com/28/141028-050-5ECC6A2B/one-unreactive-elements.jpg";
+			imageUrl = "https://stefanonavi.com/cdn/shop/articles/a_74b80132-e544-4995-9d14-0b2298434303_600x.jpg?v=1623270810";
 		} else if (element.symbol === "Ds") {
 			imageUrl = "https://pubchem.ncbi.nlm.nih.gov/images/iupac/j_pac-2015-0703_fig_146.jpg";
 		} else if (element.symbol === "Gd") {
