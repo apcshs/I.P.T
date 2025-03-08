@@ -13,6 +13,8 @@
 
     <div class="maindiv">
 
+        <button id="leftToggleButton" class="toggle-btn" onclick="toggleLeftMenu()">&lt;</button>
+        <button id="rightToggleButton" class="toggle-btn" onclick="toggleRightMenu()">&gt;</button>
         <div class="linkpanel"><a href="https://chemistryhub.carrd.co" target="_blank">Back 2 Carrd</a></div>
 
         <div class="roundcorners leftdiv">
@@ -333,6 +335,45 @@
     <script src="periodictableinfobox.js"></script>
     <script src="periodictabledisplay.js"></script>
     <script src="periodictablepage.js"></script>
+
+    <script>
+        let leftDivVisible = true;
+        let rightDivVisible = true;
+
+        function toggleLeftMenu() {
+            let leftDiv = document.querySelector(".leftdiv");
+            let tableDiv = document.querySelector(".tablediv");
+            let leftButton = document.querySelector("#leftToggleButton"); // Tombol kiri
+
+            if (leftDivVisible) {
+                leftDiv.style.display = "none";
+                tableDiv.style.left = "10px";
+                leftButton.style.backgroundColor = "green"; // Warna saat disembunyikan
+            } else {
+                leftDiv.style.display = "block";
+                tableDiv.style.left = "160px";
+                leftButton.style.backgroundColor = ""; // Kembali ke warna default
+            }
+            leftDivVisible = !leftDivVisible;
+        }
+
+        function toggleRightMenu() {
+            let rightDiv = document.querySelector(".rightdiv");
+            let tableDiv = document.querySelector(".tablediv");
+            let rightButton = document.querySelector("#rightToggleButton"); // Tombol kanan
+
+            if (rightDivVisible) {
+                rightDiv.style.display = "none";
+                tableDiv.style.right = "10px";
+                rightButton.style.backgroundColor = "green"; // Warna saat disembunyikan
+            } else {
+                rightDiv.style.display = "block";
+                tableDiv.style.right = "160px";
+                rightButton.style.backgroundColor = ""; // Kembali ke warna default
+            }
+            rightDivVisible = !rightDivVisible;
+        }
+    </script>
 
 </body>
 
