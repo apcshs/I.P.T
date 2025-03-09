@@ -207,75 +207,75 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Es") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/5/55/Einsteinium.jpg";
 		} else if (element.symbol === "Si") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/e/e9/SiliconCroda.jpg";
+			imageUrl = "https://cdn.prod.website-files.com/60a3c1fc44c5715c395770e7/60df7dec735f6345d2dc9f59_Depositphotos_7331896_m-2015-p-800.jpeg";
 		} else if (element.symbol === "Ge") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Polycrystalline-germanium.jpg/640px-Polycrystalline-germanium.jpg";
+			imageUrl = "https://cdn.prod.website-files.com/60a3c1fc44c5715c395770e7/63ec538e059ecdbc89b2c7d3_pexels-rfstudio-3825581.jpg";
 		} else if (element.symbol === "Sn") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cassiterite09.jpg/220px-Cassiterite09.jpg";
+			imageUrl = "https://study.com/cimages/videopreview/videopreview-full/yiu1pc0sap.jpg";
 		} else if (element.symbol === "Pb") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/e/e6/Lead_electrolytic_and_1cm3_cube.jpg";
+			imageUrl = "https://mm.digikey.com/Volume0/opasdata/d220001/medias/images/4280/MFG_ENR_Max_Product-Image_E92_Straight.jpg";
 		} else if (element.symbol === "Fl") {
 			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Flerovium-2.jpg";
 		} else if (element.symbol === "Er") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/8/88/Erbium_%2868_Er%29.jpg";
+			imageUrl = "https://7cad390533514c32acc8-75d23ce06fcfaf780446d85d50c33f7b.ssl.cf6.rackcdn.com/sc/1682563166-normal-erbium-oxide-as-a-colorant-in-glass-production.jpg";
 		} else if (element.symbol === "Fm") {
-			imageUrl = "https://periodic.lanl.gov/images/fermium-ytterbium-alloy.jpg";
+			imageUrl = "https://d2cbg94ubxgsnp.cloudfront.net/Pictures/780xany/4/9/6/135496_shutterstock_339962993.jpg";
 		} else if (element.symbol === "N") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/11/Nitrogen.jpg?fit=225%2C225&ssl=1";
+			imageUrl = "https://etimg.etb2bimg.com/photo/70126789.cms";
 		} else if (element.symbol === "P") {
-			imageUrl = "https://cdn.britannica.com/54/123754-004-9BAF7258/phosphorus-matches.jpg";
+			imageUrl = "https://cdn.mos.cms.futurecdn.net/kUec7ZhbuZkR4DQAhvPB57-500-80.jpg.webp";
 		} else if (element.symbol === "As") {
-			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeOgUKTj901zFDVFJsOPKKeb6p7-Rc0da09A&s";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNEGar3X05QUqXvKYVcijM21ZnXIS5qVZMkJPZwimG-OPEYSqwRAq11zYTYSsvcvZF6l8&usqp=CAU";
 		} else if (element.symbol === "Sb") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/5/5c/Antimony-4.jpg";
+			imageUrl = "https://image.made-in-china.com/226f3j00ZLHWvUmYYQkz/SZSC-Series-Tin-Zinc-Antimony-Copper-Alloy-Wire-for-Film-Capacitor-Patented-Product-Sample-Customization.webp";
 		} else if (element.symbol === "Bi") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/e/ef/Bismuth_crystals_and_1cm3_cube.jpg";
+			imageUrl = "https://cloudinary.images-iherb.com/image/upload/f_auto,q_auto:eco/images/peb/peb03928/l/24.jpg";
 		} else if (element.symbol === "Mc") {
 			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Moscovium-2.jpg";
 		} else if (element.symbol === "Tm") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/1/1e/Thulium_sublimed_dendritic_and_1cm3_cube.jpg";
+			imageUrl = "https://pub.mdpi-res.com/sensors/sensors-17-00531/article_deploy/html/images/sensors-17-00531-g006.png?1569249753";
 		} else if (element.symbol === "Md") {
-			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXjCURKA4FtPw5dHXYsO1vJiBX4G-DhdyEUg&s";
+			imageUrl = "https://chemicool.com/elements/images/300-berkeley-60inch-cyclotron.jpg";
 		} else if (element.symbol === "O") {
-			imageUrl = "https://periodictable.com/Samples/008.8/s7s.JPG";
+			imageUrl = "https://engiomed.ae/wp-content/uploads/2022/09/oxygen-cylinder.jpg";
 		} else if (element.symbol === "S") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg/1200px-Sulfur_-_El_Desierto_mine%2C_San_Pablo_de_Napa%2C_Daniel_Campos_Province%2C_Potos%C3%AD%2C_Bolivia.jpg";
+			imageUrl = "https://medsgo.ph/images/detailed/26/Unilab-United-Home-Sulfent-_Sulfur-Ointment-for-Pimples-Scabies-30g-Tube_-3[1].jpg";
 		} else if (element.symbol === "Se") {
-			imageUrl = "https://d2jx2rerrg6sh3.cloudfront.net/image-handler/picture/2021/4/shutterstock_1056917978.jpg";
+			imageUrl = "https://www.alzdiscovery.org/uploads/cognitive_vitality/iStock-Selenium_rating.jpg";
 		} else if (element.symbol === "Te") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Tellurium2.jpg/640px-Tellurium2.jpg";
+			imageUrl = "https://media.sciencephoto.com/image/c0132774/800wm";
 		} else if (element.symbol === "Po") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/en/6/66/Polonium.jpg";
+			imageUrl = "https://www.orau.org/health-physics-museum/img/museum/consumer-products/miscellaneous/staticmaster-1.jpg";
 		} else if (element.symbol === "Lv") {
 			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Livermorium-2.jpg";
 		} else if (element.symbol === "Yb") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/c/ce/Ytterbium-3.jpg";
+			imageUrl = "https://techwin-china.com/products/1_1_4_ytterbium_doped_pulsed_fiber_01.jpg";
 		} else if (element.symbol === "No") {
-			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Nobelium-2.jpg";
+			imageUrl = "https://www.chemicool.com/elements/images/gammasphere.jpg";
 		} else if (element.symbol === "He") {
-			imageUrl = "https://cdn.mos.cms.futurecdn.net/H3wgQVehsRLqAJmuYaN94M.jpg";
+			imageUrl = "https://www.gasworld.com/cdn-cgi/image/width=1200,height=900,fit=contain,quality=75,metadata=none,format=auto,gravity=auto/https://www.gasworld.com/wp-content/files/gwml/mrimachine_628365.jpg";
 		} else if (element.symbol === "Ne") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/4/46/Neon_discharge_tube.jpg";
+			imageUrl = "https://www.repairfaq.org/sam/jkhene/Laser_2_Front_Big.JPG";
 		} else if (element.symbol === "Ar") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/8/87/Argon_discharge_tube.jpg";
+			imageUrl = "https://img-seychelles.com/wp-content/uploads/2023/05/Argon-Gas-for-sale-in-Seychelles.jpg";
 		} else if (element.symbol === "Kr") {
-			imageUrl = "https://www.syfy.com/sites/syfy/files/2021/12/gettyimages-886851320.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFibQzuBBmmCFgGHYqbUjPw1ibPXvqcOFTCtZjRYzmDxjunesGMbK6JYGhbLT2kxEWtdc&usqp=CAU";
 		} else if (element.symbol === "Xe") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/d/d7/Xenon_discharge_tube.jpg";
+			imageUrl = "https://www.powerbulbs.com/uploads/images/blog_images/Xenon-BMW-Blog-Image-1.jpg";
 		} else if (element.symbol === "Rn") {
-			imageUrl = "https://theodoregray.com/periodictable/Samples/086/s14s.JPG";
+			imageUrl = "https://www.popsci.com/wp-content/uploads/2019/03/18/ZNEQNMUE6JC3V7UEVWGVC32IKQ.jpg?quality=85";
 		} else if (element.symbol === "Og") {
 			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Oganesson-2.jpg";
 		} else if (element.symbol === "F") {
-			imageUrl = "https://www.chemicool.com/elements/images/300-fluorite-before.jpg";
+			imageUrl = "https://periodictable.com/Samples/009.1/s13.JPG";
 		} else if (element.symbol === "Cl") {
-			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTB2RIllerNMBXd7DFup9aq_aOEbWkzjec7KQ&s";
+			imageUrl = "https://araxchemi.com/my_uploads/2019/05/Chlorine-with-pool-768x512.webp";
 		} else if (element.symbol === "Br") {
-			imageUrl = "https://cdn.mos.cms.futurecdn.net/S6SNpRNQFXaMCyyYttoQcc.jpg";
+			imageUrl = "https://bromine123.weebly.com/uploads/4/6/9/4/46940515/379692.jpg?321";
 		} else if (element.symbol === "I") {
-			imageUrl = "https://cdn.britannica.com/68/132468-050-9DE736C3/Iodine.jpg";
+			imageUrl = "https://media.post.rvohealth.io/wp-content/uploads/2019/03/Salt_Spoons_732x549-thumbnail.jpg";
 		} else if (element.symbol === "At") {
-			imageUrl = "https://www.chemistrylearner.com/wp-content/uploads/2018/03/Astatine.jpg";
+			imageUrl = "https://news.cnrs.fr/sites/default/files/styles/lightbox-hd/public/assets/images/img_0452_enceinte_blindee_pour_automate_de_synthese_de_produits_radiopharmaceutiques_72dpi_0.jpg?itok=nkGUuKNL";
 		} else if (element.symbol === "Ts") {
 			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Tennessine-2.jpg";
 		}
