@@ -163,47 +163,47 @@ class PeriodicTableInfoBox
 		} else if (element.symbol === "Pt") {
 			imageUrl = "https://stefanonavi.com/cdn/shop/articles/a_74b80132-e544-4995-9d14-0b2298434303_600x.jpg?v=1623270810";
 		} else if (element.symbol === "Ds") {
-			imageUrl = "https://pubchem.ncbi.nlm.nih.gov/images/iupac/j_pac-2015-0703_fig_146.jpg";
+			imageUrl = "https://study.com/cimages/multimages/16/bates_linear_accelerator_002.jpg";
 		} else if (element.symbol === "Gd") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/d/d1/Gadolinium-4.jpg";
+			imageUrl = "https://jodasexpoim.in/wp-content/uploads/2024/05/GBCAs-in-MRI.jpg";
 		} else if (element.symbol === "Cm") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2019/01/Curium.jpg?fit=225%2C225&ssl=1";
+			imageUrl = "https://www.sky-rayinstrument.com/uploads/201816063/portable-mineral-analyzer49271158291.jpg";
 		} else if (element.symbol === "Cu") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/NatCopper.jpg/1200px-NatCopper.jpg";
+			imageUrl = "https://www.netmeds.com/images/cms/wysiwyg/blog/2020/10/1603441464_Copper_big_3.jpg";
 		} else if (element.symbol === "Ag") {
-			imageUrl = "https://cdn.britannica.com/77/128177-050-D1FD0DDD/silver-nugget.jpg";
+			imageUrl = "https://sarasotaantiquebuyers.com/wp-content/uploads/2017/11/We-buy-Antique-Silver.jpg";
 		} else if (element.symbol === "Au") {
-			imageUrl = "https://www.usatoday.com/gcdn/-mm-/9e1f6e2ee20f44aa1f3be4f71e9f3e52b6ae2c7e/c=0-110-2121-1303/local/-/media/2020/08/08/USATODAY/usatsports/MotleyFool-TMOT-55eb0403-gold-rocks.jpg?width=1200&disable=upscale&format=pjpg&auto=webp";
+			imageUrl = "https://investingnews.com/media-library/rows-of-gold-bars.jpg?id=54966053&width=1200&height=800&quality=80&coordinates=0%2C0%2C0%2C0";
 		} else if (element.symbol === "Rg") {
-			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Roentgenium-2.jpg";
+			imageUrl = "https://www.americanelements.com/images/2024-08/roentgenium-banner.jpg";
 		} else if (element.symbol === "Tb") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/9/9a/Terbium-2.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwDnKJKATMR18xmlnV-W76qZqfOF0ZICRrd9QiRhu6jhw6dX_DE9QYymTqcb_hodR3lBw&usqp=CAU";
 		} else if (element.symbol === "Bk") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/b/b6/Berkelium_metal.jpg";
 		} else if (element.symbol === "Zn") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/f/f9/Zinc_fragment_sublimed_and_1cm3_cube.jpg";
+			imageUrl = "https://1.bp.blogspot.com/-D067hJvnJcE/XW5a8yqv_LI/AAAAAAAAABU/gNRox4yNbg0vIgH6PIKyAFZFRaxpPeWkQCLcBGAs/s1600/zinc-manufacturers-in-India.jpg";
 		} else if (element.symbol === "Cd") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/b/b5/Cadmium-crystal_bar.jpg";
+			imageUrl = "https://www.globalhealingcenter.com/natural-health/wp-content/uploads/2013/05/cadmium-batteries.jpg";
 		} else if (element.symbol === "Hg") {
-			imageUrl = "https://cdn.britannica.com/91/150291-050-675525C7/mercury-beads-glass-container.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO2DM769FEQZ0c7D03eDium0gCswQAIKJWSnTbiqnvQlFVy-4EH7S-t1z8YNUizIaeyTk&usqp=CAU";
 		} else if (element.symbol === "Cn") {
-			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Copernicium-2.jpg";
+			imageUrl = "https://img.chemie.de/Portal/News/1695_vtOBw7aWY.jpg?tr=n-xzoom";
 		} else if (element.symbol === "Dy") {
-			imageUrl = "https://www.thoughtco.com/thmb/2uVS3jDL5aFJvcokmXEKBvUlvc8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Dy-Metal-2-56a613dd5f9b58b7d0dfcc4a.jpg";
+			imageUrl = "https://nuclear-power.com/wp-content/uploads/2014/11/Cluster_assembly.png";
 		} else if (element.symbol === "Cf") {
-			imageUrl = "https://i0.wp.com/periodic-table.com/wp-content/uploads/2018/12/Californium.jpg?fit=252%2C200&ssl=1";
+			imageUrl = "https://www.chemicool.com/elements/images/300-californium-mine-detector.jpg";
 		} else if (element.symbol === "Al") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/5/5d/Aluminium-4.jpg";
+			imageUrl = "https://www.windpowerengineering.com/wp-content/uploads/2019/05/helukabel-headline-image.jpg";
 		} else if (element.symbol === "Ga") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/9/92/Gallium_crystals.jpg";
+			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBXzgxUIP4ZqmFA_I5F4BYH8LxnZ83MMEJ1OprjNq404mFLy2qfPXjtzBynTLw6Apk&usqp=CAU";
 		} else if (element.symbol === "In") {
-			imageUrl = "https://cdn.mos.cms.futurecdn.net/EmE4MmqR4GzYfF3MhzotFm-1144-80.jpg";
+			imageUrl = "https://images.squarespace-cdn.com/content/v1/5fc769a68b9e860b7b20d9a1/97bd6fd9-60a9-481a-84c2-8a893bda7452/unsplash-image-oCfkSnqZ0SI.jpg";
 		} else if (element.symbol === "Tl") {
-			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/b/bb/Thallium_pieces_in_ampoule.jpg";
+			imageUrl = "https://productimages.edmundoptics.com/9499.jpg?quality=100";
 		} else if (element.symbol === "Nh") {
-			imageUrl = "https://cdn1.byjus.com/wp-content/uploads/2018/08/Nihonium-2.jpg";
+			imageUrl = "https://www.thoughtco.com/thmb/laf80UF2HLJyhaxb0UiwlpUG20g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/distorted-concentric-light-circles-light-painting-534360517-58865a615f9b58bdb3aa07f2.jpg";
 		} else if (element.symbol === "Ho") {
-			imageUrl = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ892UI4KXu0LYStyCF478KEX9et9Ls1_E4ig&s";
+			imageUrl = "https://auction.fabexchange.com/Content/listingImages/20220606/8091cfdf-65f1-4d9c-af44-cf278c2f1554_fullsize.jpg";
 		} else if (element.symbol === "Es") {
 			imageUrl = "https://upload.wikimedia.org/wikipedia/commons/5/55/Einsteinium.jpg";
 		} else if (element.symbol === "Si") {
